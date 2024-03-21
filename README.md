@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **android developement and frontend**
+- 🌱 I’m currently learning **frontend**
 
 - 📫 How to reach me **anujrtk.aj@gmail.com**
 
